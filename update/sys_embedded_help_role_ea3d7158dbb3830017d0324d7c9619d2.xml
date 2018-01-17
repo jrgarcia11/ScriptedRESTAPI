@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>100</order>
+        <role display_value="x_snc_polls.poll_manager" name="x_snc_polls.poll_manager">36a9da2a134b1200ed373d62f244b081</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2018-01-17 15:54:55</sys_created_on>
+        <sys_id>ea3d7158dbb3830017d0324d7c9619d2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>36a9da2a134b1200ed373d62f244b081</sys_name>
+        <sys_package display_value="Polls" source="x_snc_polls">cd1f2766133e1200ed373d62f244b082</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Polls">cd1f2766133e1200ed373d62f244b082</sys_scope>
+        <sys_update_name>sys_embedded_help_role_ea3d7158dbb3830017d0324d7c9619d2</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2018-01-17 15:54:55</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
